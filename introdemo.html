@@ -1,0 +1,432 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Names and Schools Directory</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        min-height: 100vh;
+        padding: 20px;
+      }
+
+      .container {
+        max-width: 1000px;
+        margin: 0 auto;
+        background: white;
+        border-radius: 15px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        overflow: hidden;
+      }
+
+      .header {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        text-align: center;
+        padding: 30px;
+      }
+
+      .header h1 {
+        font-size: 2.5em;
+        margin-bottom: 10px;
+      }
+
+      .header p {
+        font-size: 1.2em;
+        opacity: 0.9;
+      }
+
+      .add-person-form {
+        background: #f8f9fa;
+        padding: 20px;
+        border-bottom: 1px solid #e9ecef;
+      }
+
+      .form-row {
+        display: flex;
+        gap: 15px;
+        margin-bottom: 15px;
+        flex-wrap: wrap;
+      }
+
+      .form-group {
+        flex: 1;
+        min-width: 200px;
+      }
+
+      .form-group label {
+        display: block;
+        margin-bottom: 5px;
+        font-weight: 600;
+        color: #495057;
+      }
+
+      .form-group input {
+        width: 100%;
+        padding: 10px;
+        border: 2px solid #e9ecef;
+        border-radius: 8px;
+        font-size: 16px;
+        transition: all 0.3s ease;
+      }
+
+      .form-group input:focus {
+        outline: none;
+        border-color: #667eea;
+        box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+      }
+
+      .add-btn {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        border: none;
+        padding: 12px 25px;
+        border-radius: 8px;
+        font-size: 16px;
+        font-weight: 600;
+        cursor: pointer;
+        transition: all 0.3s ease;
+      }
+
+      .add-btn:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+      }
+
+      .search-container {
+        padding: 20px;
+        background: #f8f9fa;
+        border-bottom: 1px solid #e9ecef;
+      }
+
+      .search-box {
+        width: 100%;
+        padding: 12px 20px;
+        border: 2px solid #e9ecef;
+        border-radius: 25px;
+        font-size: 16px;
+        transition: all 0.3s ease;
+      }
+
+      .search-box:focus {
+        outline: none;
+        border-color: #667eea;
+        box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+      }
+
+      .people-list {
+        padding: 20px;
+      }
+
+      .person-card {
+        background: #fff;
+        border: 1px solid #e9ecef;
+        border-radius: 10px;
+        padding: 20px;
+        margin-bottom: 15px;
+        transition: all 0.3s ease;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      }
+
+      .person-card:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+      }
+
+      .person-info {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 10px;
+      }
+
+      .person-details h3 {
+        color: #495057;
+        font-size: 1.3em;
+        margin-bottom: 5px;
+      }
+
+      .person-details p {
+        color: #6c757d;
+        font-size: 1.1em;
+      }
+
+      .delete-btn {
+        background: #dc3545;
+        color: white;
+        border: none;
+        padding: 8px 15px;
+        border-radius: 6px;
+        cursor: pointer;
+        font-size: 14px;
+        transition: all 0.3s ease;
+      }
+
+      .delete-btn:hover {
+        background: #c82333;
+        transform: translateY(-1px);
+      }
+
+      .no-results {
+        text-align: center;
+        color: #6c757d;
+        font-size: 1.2em;
+        padding: 40px;
+      }
+
+      @media (max-width: 768px) {
+        .person-info {
+          flex-direction: column;
+          align-items: flex-start;
+        }
+
+        .form-row {
+          flex-direction: column;
+        }
+
+        .header h1 {
+          font-size: 2em;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <h1>Names & Schools Directory</h1>
+        <p>Keep track of people and their educational institutions</p>
+      </div>
+
+      <div class="add-person-form">
+        <div class="form-row">
+          <div class="form-group">
+            <label for="name">Name:</label>
+            <input type="text" id="name" placeholder="Enter person's name" />
+          </div>
+          <div class="form-group">
+            <label for="school">School:</label>
+            <input type="text" id="school" placeholder="Enter school name" />
+          </div>
+        </div>
+        <div style="display: flex; gap: 10px; align-items: center">
+          <button class="add-btn" onclick="addPerson()">Add Person</button>
+          <button
+            class="add-btn"
+            onclick="resetData()"
+            style="background: #6c757d; font-size: 14px; padding: 10px 20px"
+          >
+            Reset to Original List
+          </button>
+        </div>
+      </div>
+
+      <div class="search-container">
+        <input
+          type="text"
+          class="search-box"
+          id="searchBox"
+          placeholder="🔍 Search by name or school..."
+          oninput="searchPeople()"
+        />
+      </div>
+
+      <div class="people-list" id="peopleList">
+        <!-- People will be displayed here -->
+      </div>
+    </div>
+
+    <script>
+      let people = [];
+      let currentFilter = "";
+
+      // API functions
+      async function loadData() {
+        try {
+          const response = await fetch("/api/people");
+          const data = await response.json();
+          people = data.people || [];
+          displayPeople();
+        } catch (error) {
+          console.error("Failed to load data:", error);
+          alert("Failed to load data from server");
+        }
+      }
+
+      async function savePerson(name, school) {
+        try {
+          const response = await fetch("/api/people", {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json",
+            },
+            body: JSON.stringify({ name, school }),
+          });
+
+          if (response.ok) {
+            const newPerson = await response.json();
+            people.push(newPerson);
+            displayPeople();
+            return true;
+          } else {
+            throw new Error("Failed to save person");
+          }
+        } catch (error) {
+          console.error("Failed to save person:", error);
+          alert("Failed to save person to server");
+          return false;
+        }
+      }
+
+      async function removePerson(id) {
+        try {
+          const response = await fetch(`/api/people/${id}`, {
+            method: "DELETE",
+          });
+
+          if (response.ok) {
+            people = people.filter((person) => person.id !== id);
+            displayPeople();
+            return true;
+          } else {
+            throw new Error("Failed to delete person");
+          }
+        } catch (error) {
+          console.error("Failed to delete person:", error);
+          alert("Failed to delete person from server");
+          return false;
+        }
+      }
+
+      async function resetToDefault() {
+        try {
+          const response = await fetch("/api/reset", {
+            method: "POST",
+          });
+
+          if (response.ok) {
+            const data = await response.json();
+            people = data.people || [];
+            displayPeople();
+            document.getElementById("searchBox").value = "";
+            return true;
+          } else {
+            throw new Error("Failed to reset data");
+          }
+        } catch (error) {
+          console.error("Failed to reset data:", error);
+          alert("Failed to reset data on server");
+          return false;
+        }
+      }
+
+      function displayPeople(peopleToShow = people) {
+        const list = document.getElementById("peopleList");
+
+        if (peopleToShow.length === 0) {
+          list.innerHTML =
+            '<div class="no-results">No people found matching your search.</div>';
+          return;
+        }
+
+        list.innerHTML = peopleToShow
+          .map(
+            (person) => `
+                <div class="person-card">
+                    <div class="person-info">
+                        <div class="person-details">
+                            <h3>${person.name}</h3>
+                            <p>${person.school}</p>
+                        </div>
+                        <button class="delete-btn" onclick="deletePerson(${person.id})">Delete</button>
+                    </div>
+                </div>
+            `,
+          )
+          .join("");
+      }
+
+      async function addPerson() {
+        const nameInput = document.getElementById("name");
+        const schoolInput = document.getElementById("school");
+
+        const name = nameInput.value.trim();
+        const school = schoolInput.value.trim();
+
+        if (name && school) {
+          const success = await savePerson(name, school);
+
+          if (success) {
+            nameInput.value = "";
+            schoolInput.value = "";
+
+            // Clear search if active
+            document.getElementById("searchBox").value = "";
+            currentFilter = "";
+          }
+        } else {
+          alert("Please enter both name and school.");
+        }
+      }
+
+      async function deletePerson(id) {
+        if (confirm("Are you sure you want to delete this person?")) {
+          await removePerson(id);
+        }
+      }
+
+      async function resetData() {
+        if (
+          confirm(
+            "Are you sure you want to reset to the original list? This will delete all your changes.",
+          )
+        ) {
+          await resetToDefault();
+        }
+      }
+
+      function searchPeople() {
+        const searchTerm = document
+          .getElementById("searchBox")
+          .value.toLowerCase();
+        currentFilter = searchTerm;
+        const filteredPeople = people.filter(
+          (person) =>
+            person.name.toLowerCase().includes(searchTerm) ||
+            person.school.toLowerCase().includes(searchTerm),
+        );
+        displayPeople(filteredPeople);
+      }
+
+      // Allow adding person with Enter key
+      document
+        .getElementById("name")
+        .addEventListener("keypress", function (e) {
+          if (e.key === "Enter") {
+            document.getElementById("school").focus();
+          }
+        });
+
+      document
+        .getElementById("school")
+        .addEventListener("keypress", function (e) {
+          if (e.key === "Enter") {
+            addPerson();
+          }
+        });
+
+      // Load data when page loads
+      document.addEventListener("DOMContentLoaded", function () {
+        loadData();
+      });
+    </script>
+  </body>
+</html>
