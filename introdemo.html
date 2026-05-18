@@ -3,7 +3,9 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Names and Schools Directory</title>
+    <title>ITIS3135 | con von Briesen | Names and Schools Directory</title>
+    <link rel="stylesheet" href="styles/default.css" />
+    <script src="scripts/include-repeated-code.js" defer></script>
     <style>
       * {
         margin: 0;
@@ -34,7 +36,7 @@
         padding: 30px;
       }
 
-      .header h1 {
+      .header .directory-title {
         font-size: 2.5em;
         margin-bottom: 10px;
       }
@@ -200,49 +202,56 @@
     </style>
   </head>
   <body>
-    <div class="container">
-      <div class="header">
-        <h1>Names & Schools Directory</h1>
-        <p>Keep track of people and their educational institutions</p>
-      </div>
+    <header></header>
 
-      <div class="add-person-form">
-        <div class="form-row">
-          <div class="form-group">
-            <label for="name">Name:</label>
-            <input type="text" id="name" placeholder="Enter person's name" />
+    <main>
+      <h2 class="page-title content-shell">Names and Schools Directory</h2>
+      <div class="container">
+        <div class="header">
+          <p class="directory-title">Names &amp; Schools Directory</p>
+          <p>Keep track of people and their educational institutions</p>
+        </div>
+
+        <div class="add-person-form">
+          <div class="form-row">
+            <div class="form-group">
+              <label for="name">Name:</label>
+              <input type="text" id="name" placeholder="Enter person's name" />
+            </div>
+            <div class="form-group">
+              <label for="school">School:</label>
+              <input type="text" id="school" placeholder="Enter school name" />
+            </div>
           </div>
-          <div class="form-group">
-            <label for="school">School:</label>
-            <input type="text" id="school" placeholder="Enter school name" />
+          <div style="display: flex; gap: 10px; align-items: center">
+            <button class="add-btn" onclick="addPerson()">Add Person</button>
+            <button
+              class="add-btn"
+              onclick="resetData()"
+              style="background: #6c757d; font-size: 14px; padding: 10px 20px"
+            >
+              Reset to Original List
+            </button>
           </div>
         </div>
-        <div style="display: flex; gap: 10px; align-items: center">
-          <button class="add-btn" onclick="addPerson()">Add Person</button>
-          <button
-            class="add-btn"
-            onclick="resetData()"
-            style="background: #6c757d; font-size: 14px; padding: 10px 20px"
-          >
-            Reset to Original List
-          </button>
+
+        <div class="search-container">
+          <input
+            type="text"
+            class="search-box"
+            id="searchBox"
+            placeholder="🔍 Search by name or school..."
+            oninput="searchPeople()"
+          />
+        </div>
+
+        <div class="people-list" id="peopleList">
+          <!-- People will be displayed here -->
         </div>
       </div>
+    </main>
 
-      <div class="search-container">
-        <input
-          type="text"
-          class="search-box"
-          id="searchBox"
-          placeholder="🔍 Search by name or school..."
-          oninput="searchPeople()"
-        />
-      </div>
-
-      <div class="people-list" id="peopleList">
-        <!-- People will be displayed here -->
-      </div>
-    </div>
+    <footer></footer>
 
     <script>
       let people = [];
