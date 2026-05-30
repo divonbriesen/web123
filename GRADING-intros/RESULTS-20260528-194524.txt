@@ -1,0 +1,240 @@
+RESULTS comma-grouping rerun:
+- Aguilar Hernandez, Ivan
+  Checked 13 items, found 17 issues:
+  1. Missing required bulleted item: Personal Background., Professional Background., Academic Background., Primary Work Computer., Operating System & Version., Backup Work Computer & Location Plan., Courses I'm Taking, & Why.
+  2. Quote should be centered.
+  3. Favorite quote should place attribution on a separate line.
+  4. Missing required link label: CLT Web., GitHub., GitHub.io., freeCodeCamp., Codecademy., LinkedIn.
+  5. Missing centered links line with dividers.
+  6. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them.
+
+- Alexander, Travis M.
+  Checked 13 items, found 16 issues:
+  1. Label before colon must be bold: Personal Background.
+  2. Label before colon must be bold: Professional Background.
+  3. Label before colon must be bold: Academic Background.
+  4. Label before colon must be bold: Primary Work Computer.
+  5. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  6. Label before colon must be bold: Courses I'm Taking, & Why.
+  7. Missing exactly one blank line before the quote.
+  8. Missing required link label: CLT Web., GitHub., GitHub.io., freeCodeCamp., Codecademy., LinkedIn.
+  9. Missing centered links line with dividers.
+  10. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them.
+
+- Blanchard, Eric F.
+  Checked 13 items, found 15 issues:
+  1. Missing personal statement with at least 3 complete sentences.
+  2. Label before colon must be bold: Personal Background.
+  3. Label before colon must be bold: Professional Background.
+  4. Label before colon must be bold: Academic Background.
+  5. Label before colon must be bold: Primary Work Computer.
+  6. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  7. Label before colon must be bold: Courses I'm Taking, & Why.
+  8. Missing exactly one blank line before the quote.
+  9. Missing required link label: GitHub.io., Codecademy.
+  10. Links line should include dividers between each required link.
+  11. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them.
+  12. Missing additional blank line between quote attribution and links line.
+  13. Missing horizontal rule separator after entry.
+
+- Calloway, Jackson
+  Checked 13 items, found 18 issues:
+  1. Missing personal statement with at least 3 complete sentences.
+  2. Label before colon must be bold: Personal Background.
+  3. Label before colon must be bold: Professional Background.
+  4. Label before colon must be bold: Academic Background.
+  5. Label before colon must be bold: Primary Work Computer.
+  6. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  7. Label before colon must be bold: Courses I'm Taking, & Why.
+  8. Quote attribution should start with '-' or '~'.
+  9. Missing exactly one blank line before the quote.
+  10. Missing required link label: GitHub.io., Codecademy., LinkedIn.
+  11. freeCodeCamp link must point to a freeCodeCamp profile URL.
+  12. Links line should include dividers between each required link.
+  13. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them.
+  14. Missing additional blank line between quote attribution and links line.
+  15. Missing horizontal rule separator after entry.
+
+- Kuykendall, Mason
+  Checked 13 items, found 17 issues:
+  1. Missing centered italic caption beneath the photo.
+  2. Missing personal statement with at least 3 complete sentences.
+  3. Missing required bulleted item: Personal Background., Professional Background., Academic Background.
+  4. Label before colon must be bold: Primary Work Computer.
+  5. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  6. Label before colon must be bold: Courses I'm Taking, & Why.
+  7. Favorite quote should place attribution on a separate line.
+  8. Missing required link label: CLT Web., GitHub., GitHub.io., freeCodeCamp., Codecademy., LinkedIn.
+  9. Missing centered links line with dividers.
+
+- Mametz, Emily
+  Checked 13 items, found 14 issues:
+  1. Entry should start below a horizontal rule.
+  2. Label before colon must be bold: Personal Background.
+  3. Label before colon must be bold: Professional Background.
+  4. Label before colon must be bold: Academic Background.
+  5. Label before colon must be bold: Primary Work Computer.
+  6. Missing required bulleted item: Operating System & Version.
+  7. Label before colon must be bold: Backup Work Computer & Location Plan.
+  8. Label before colon must be bold: Courses I'm Taking, & Why.
+  9. Quote attribution should start with '-' or '~'.
+  10. Missing required link label: Codecademy.
+  11. GitHub.io link must match https://xyz.github.io pattern.
+  12. Links line should include dividers between each required link.
+  13. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them.
+  14. Missing additional blank line between quote attribution and links line.
+
+- Mbambukulu, Gabriel
+  Checked 13 items, found 8 issues:
+  1. Missing display-name line in the form First M. "Nickname" Last ~ Adjective Animal (with optional initial/nickname).
+  2. Missing personal statement with at least 3 complete sentences.
+  3. Missing required bulleted item: Operating System & Version.
+  4. Missing required link label: Codecademy., LinkedIn.
+  5. Links line should include dividers between each required link.
+  6. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them.
+  7. Missing additional blank line between quote attribution and links line.
+
+- Moore, Preston
+  Checked 13 items, found 19 issues:
+  1. Missing public acknowledgment sentence with italic initials and date.
+  2. Label before colon must be bold: Personal Background.
+  3. Label before colon must be bold: Professional Background.
+  4. Label before colon must be bold: Academic Background.
+  5. Label before colon must be bold: Primary Work Computer.
+  6. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  7. Label before colon must be bold: Courses I'm Taking, & Why.
+  8. Quote attribution should be centered.
+  9. Quote attribution should start with '-' or '~'.
+  10. Missing required link label: CLT Web., GitHub., GitHub.io., freeCodeCamp., Codecademy., LinkedIn.
+  11. Missing centered links line with dividers.
+  12. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them.
+  13. Missing horizontal rule separator after entry.
+
+- Odokara, Winnie.
+  Checked 13 items, found 22 issues:
+  1. Heading 2 name is not in the expected format: Last Name, First Name Middle Initial.
+  2. Missing public acknowledgment sentence with italic initials and date.
+  3. Missing display-name line in the form First M. "Nickname" Last ~ Adjective Animal (with optional initial/nickname).
+  4. Missing centered photo.
+  5. Missing centered italic caption beneath the photo.
+  6. Missing personal statement with at least 3 complete sentences.
+  7. Missing required bulleted item: Personal Background., Professional Background., Academic Background., Primary Work Computer., Operating System & Version., Backup Work Computer & Location Plan., Courses I'm Taking, & Why.
+  8. Missing favorite quote block.
+  9. Missing required link label: CLT Web., GitHub., GitHub.io., freeCodeCamp., Codecademy., LinkedIn.
+  10. Missing centered links line with dividers.
+  11. Missing horizontal rule separator after entry.
+
+- Outing, Tyreek J.
+  Checked 13 items, found 11 issues:
+  1. Entry should start below a horizontal rule.
+  2. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan., Courses I'm Taking, & Why.
+  3. Quote attribution should start with '-' or '~'.
+  4. Missing required link label: Codecademy.
+  5. GitHub.io link must match https://xyz.github.io pattern.
+  6. LinkedIn link must point to a LinkedIn profile URL.
+  7. Links line should include dividers between each required link.
+  8. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them.
+  9. Missing additional blank line between quote attribution and links line.
+
+- Posas, Joseph B.
+  Checked 13 items, found 15 issues:
+  1. Entry should start below a horizontal rule.
+  2. Missing personal statement with at least 3 complete sentences.
+  3. Label before colon must be bold: Personal Background.
+  4. Label before colon must be bold: Professional Background.
+  5. Label before colon must be bold: Academic Background.
+  6. Label before colon must be bold: Primary Work Computer.
+  7. Missing required bulleted item: Operating System & Version.
+  8. Label before colon must be bold: Backup Work Computer & Location Plan.
+  9. Label before colon must be bold: Courses I'm Taking, & Why.
+  10. Missing required link label: GitHub.io., Codecademy.
+  11. Links line should include dividers between each required link.
+  12. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them.
+  13. Missing additional blank line between quote attribution and links line.
+  14. Missing horizontal rule separator after entry.
+
+- Izaguirre-Acosta, Darbis
+  Checked 13 items, found 18 issues:
+  1. Entry should start below a horizontal rule.
+  2. Missing public acknowledgment sentence with italic initials and date.
+  3. Missing personal statement with at least 3 complete sentences.
+  4. Label before colon must be bold: Personal Background.
+  5. Label before colon must be bold: Professional Background.
+  6. Label before colon must be bold: Academic Background.
+  7. Label before colon must be bold: Primary Work Computer.
+  8. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  9. Label before colon must be bold: Courses I'm Taking, & Why.
+  10. Missing favorite quote block.
+  11. Missing required link label: CLT Web., GitHub., GitHub.io., freeCodeCamp., Codecademy., LinkedIn.
+  12. Missing centered links line with dividers.
+
+- Siebenlist Jr., Richard
+  Checked 13 items, found 21 issues:
+  1. Heading 2 name is not in the expected format: Last Name, First Name Middle Initial.
+  2. Missing display-name line in the form First M. "Nickname" Last ~ Adjective Animal (with optional initial/nickname).
+  3. Label before colon must be bold: Personal Background.
+  4. Label before colon must be bold: Professional Background.
+  5. Label before colon must be bold: Academic Background.
+  6. Label before colon must be bold: Primary Work Computer.
+  7. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  8. Label before colon must be bold: Courses I'm Taking, & Why.
+  9. Quote attribution should start with '-' or '~'.
+  10. Favorite quote should place attribution on a separate line.
+  11. Missing required link label: CLT Web., GitHub., GitHub.io., freeCodeCamp., Codecademy.
+  12. LinkedIn link must point to a LinkedIn profile URL.
+  13. Links line should be centered.
+  14. Links line should include dividers between each required link.
+  15. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them.
+  16. Missing horizontal rule separator after entry.
+
+- Stanton, Shea
+  Checked 13 items, found 16 issues:
+  1. Entry should start below a horizontal rule.
+  2. Label before colon must be bold: Personal Background.
+  3. Label before colon must be bold: Professional Background.
+  4. Label before colon must be bold: Academic Background.
+  5. Missing required bulleted item: Primary Work Computer., Operating System & Version., Backup Work Computer & Location Plan.
+  6. Label before colon must be bold: Courses I'm Taking, & Why.
+  7. Missing exactly one blank line before the quote.
+  8. Missing required link label: CLT Web., GitHub., GitHub.io., freeCodeCamp., Codecademy., LinkedIn.
+  9. Missing centered links line with dividers.
+
+- Stewart, Taylor P.
+  Checked 13 items, found 18 issues:
+  1. Missing public acknowledgment sentence with italic initials and date.
+  2. Label before colon must be bold: Personal Background.
+  3. Label before colon must be bold: Professional Background.
+  4. Label before colon must be bold: Academic Background.
+  5. Label before colon must be bold: Primary Work Computer.
+  6. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  7. Label before colon must be bold: Courses I'm Taking, & Why.
+  8. Quote attribution should be centered.
+  9. Quote attribution should start with '-' or '~'.
+  10. Missing exactly one blank line before the quote.
+  11. Missing required link label: CLT Web., GitHub., GitHub.io., freeCodeCamp., Codecademy., LinkedIn.
+  12. Missing centered links line with dividers.
+
+- Garcia, Kelly
+  Checked 13 items, found 13 issues:
+  1. Label before colon must be bold: Personal Background.
+  2. Label before colon must be bold: Professional Background.
+  3. Label before colon must be bold: Academic Background.
+  4. Missing required bulleted item: Primary Work Computer., Operating System & Version.
+  5. Label before colon must be bold: Backup Work Computer & Location Plan.
+  6. Missing required bulleted item: Courses I'm Taking, & Why.
+  7. Missing required link label: CLT Web., GitHub., GitHub.io., Codecademy.
+  8. LinkedIn link must point to a LinkedIn profile URL.
+  9. Links line should include dividers between each required link.
+
+- von Briesen, D.I.
+  Checked 13 items, found 18 issues:
+  1. Heading 2 name is not in the expected format: Last Name, First Name Middle Initial.
+  2. Missing public acknowledgment sentence with italic initials and date.
+  3. Missing display-name line in the form First M. "Nickname" Last ~ Adjective Animal (with optional initial/nickname).
+  4. Missing required bulleted item: Academic Background., Operating System & Version., Backup Work Computer & Location Plan., Courses I'm Taking, & Why.
+  5. Quote attribution should be centered.
+  6. Quote attribution should start with '-' or '~'.
+  7. Missing exactly one blank line before the quote.
+  8. Missing required link label: CLT Web., GitHub., GitHub.io., freeCodeCamp., Codecademy., LinkedIn.
+  9. Missing centered links line with dividers.
+  10. Missing horizontal rule separator after entry.
