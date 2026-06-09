@@ -1,0 +1,604 @@
+RESULTS-CIS110-20260530-192050:
+- Adera, Hanna
+  Checked 14 items, found 6 issues:
+  1. Entry should start with a blank line below a horizontal rule.
+  2. Missing required bulleted item: Primary Work Computer., Operating System & Version., Backup Work Computer & Location Plan.
+  3. Quote should be centered.
+  4. Missing exactly one blank line before the quote.
+
+- Flores, Carisa G.
+  Checked 14 items, found 8 issues:
+  1. Nothing should be a heading except for the first one (Last, First).
+  2. Missing centered italic caption beneath the photo.
+  3. Missing required bulleted item: Primary Work Computer., Operating System & Version., Backup Work Computer & Location Plan.
+  4. Favorite quote should place attribution on a separate line.
+  5. Missing exactly one blank line before the quote.
+  6. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them. Also use View -> Show non-printing characters.
+
+- Roberts, Ashleigh, N
+  Checked 14 items, found 14 issues:
+  1. Heading 2 name is not in the expected format: Last Name, First Name Middle Initial.
+  2. Nothing should be a heading except for the first one (Last, First).
+  3. Public acknowledgment is present, but initials are missing.
+  4. Display-name line should be centered.
+  5. Photo should be centered.
+  6. Photo caption should be centered.
+  7. Missing required bulleted item: Primary Work Computer., Operating System & Version., Backup Work Computer & Location Plan.
+  8. Quote should be centered.
+  9. Quote attribution should be centered.
+  10. Quote attribution should start with a dash (-, –, —, etc.) or '~'.
+  11. Missing exactly one blank line before the quote.
+  12. Missing horizontal rule separator after entry.
+
+- Gueye, Sadio
+  Checked 14 items, found 10 issues:
+  1. Entry is not alphabetized by last name.
+  2. Entry should start below a horizontal rule.
+  3. Display-name line should be centered.
+  4. Photo caption should be centered.
+  5. Missing required bulleted item: Academic Background., Operating System & Version., Backup Work Computer & Location Plan.
+  6. Quote should be centered.
+  7. Quote attribution should be centered.
+  8. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them. Also use View -> Show non-printing characters.
+
+- Arnold, Devin H.
+  Checked 14 items, found 6 issues:
+  1. Entry is not alphabetized by last name.
+  2. Entry should start with a blank line below a horizontal rule.
+  3. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  4. Quote should be centered.
+  5. Missing exactly one blank line before the quote.
+
+- Barron, Kimberly
+  Checked 14 items, found 6 issues:
+  1. Public acknowledgment should include '-' or '~' before initials/date.
+  2. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan., Courses I'm Taking, & Why.
+  3. Quote should be centered.
+  4. Quote attribution should be centered.
+
+- Brito, Juleydis
+  Checked 14 items, found 11 issues:
+  1. Missing required bulleted item: Personal Background., Professional Background., Academic Background., Primary Work Computer., Operating System & Version., Backup Work Computer & Location Plan., Courses I'm Taking, & Why.
+  2. Quote attribution should be centered.
+  3. Quote attribution should start with a dash (-, –, —, etc.) or '~'.
+  4. Missing exactly one blank line before the quote.
+  5. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them. Also use View -> Show non-printing characters.
+
+- Carriker, Jack A
+  Checked 14 items, found 7 issues:
+  1. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  2. Quote should be centered.
+  3. Quote attribution should be centered.
+  4. Do not include the word 'Quote' as a label after the bullets.
+  5. Quote attribution should start with a dash (-, –, —, etc.) or '~'.
+  6. Missing exactly one blank line before the quote.
+
+- Cisco, JeMya
+  Checked 14 items, found 7 issues:
+  1. Missing required bulleted item: Primary Work Computer., Operating System & Version., Backup Work Computer & Location Plan., Courses I'm Taking, & Why.
+  2. Quote should be centered.
+  3. Do not include the word 'Quote' as a label after the bullets.
+  4. Quote attribution should start with a dash (-, –, —, etc.) or '~'.
+
+- Casanova Ramirez, Omar
+  Checked 14 items, found 9 issues:
+  1. Entry is not alphabetized by last name.
+  2. Nothing should be a heading except for the first one (Last, First).
+  3. Entry should start with a blank line below a horizontal rule.
+  4. Public acknowledgment should include '-' or '~' before initials/date.
+  5. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  6. Quote should be centered.
+  7. Quote attribution should start with a dash (-, –, —, etc.) or '~'.
+  8. Missing exactly one blank line before the quote.
+
+- Condon, Aidan
+  Checked 14 items, found 13 issues:
+  1. Entry should start with a blank line below a horizontal rule.
+  2. Missing centered photo.
+  3. Missing centered italic caption beneath the photo.
+  4. Missing personal statement with at least 3 complete sentences.
+  5. Missing required bulleted item: Personal Background., Professional Background., Academic Background., Primary Work Computer., Operating System & Version., Backup Work Computer & Location Plan., Courses I'm Taking, & Why.
+  6. Missing favorite quote block.
+  7. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them. Also use View -> Show non-printing characters.
+
+- Craddock, Cassidy J.
+  Checked 14 items, found 4 issues:
+  1. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  2. Quote should be centered.
+  3. Quote attribution should be centered.
+
+- Davis, Layla “Reese”
+  Checked 14 items, found 5 issues:
+  1. Heading 2 name is not in the expected format: Last Name, First Name Middle Initial.
+  2. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  3. Quote should be centered.
+  4. Quote is missing attribution.
+
+- Fuller, Zaria T.
+  Checked 14 items, found 10 issues:
+  1. Missing public acknowledgment sentence with initials and date.
+  2. Photo caption should be centered.
+  3. Missing personal statement with at least 3 complete sentences.
+  4. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  5. Quote should be centered.
+  6. Quote attribution should be centered.
+  7. Do not include the word 'Quote' as a label after the bullets.
+  8. Quote attribution should start with a dash (-, –, —, etc.) or '~'.
+  9. Favorite quote should place attribution on a separate line.
+
+- Flood, Hally R.
+  Checked 14 items, found 8 issues:
+  1. Entry is not alphabetized by last name.
+  2. Display-name line should be centered.
+  3. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  4. Quote should be centered.
+  5. Quote attribution should be centered.
+  6. Quote attribution should start with a dash (-, –, —, etc.) or '~'.
+  7. Missing horizontal rule separator after entry.
+
+- Graham, Antania N.
+  Checked 14 items, found 7 issues:
+  1. Entry should start below a horizontal rule.
+  2. Display-name line should be centered.
+  3. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  4. Quote should be centered.
+  5. Quote is missing attribution.
+  6. Missing horizontal rule separator after entry.
+
+- Grimes, LaShekia L.
+  Checked 14 items, found 10 issues:
+  1. Entry should start below a horizontal rule.
+  2. Public acknowledgment should include '-' or '~' before initials/date.
+  3. Missing centered italic caption beneath the photo.
+  4. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  5. Courses I'm Taking, & Why must include nested bullet items.
+  6. Quote should be centered.
+  7. Quote attribution should be centered.
+  8. Quote attribution should start with a dash (-, –, —, etc.) or '~'.
+  9. Missing horizontal rule separator after entry.
+
+- Hagoriles, Adrian E.
+  Checked 14 items, found 8 issues:
+  1. Entry should start below a horizontal rule.
+  2. Display-name line should be centered.
+  3. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan., Courses I'm Taking, & Why.
+  4. Quote should be centered.
+  5. Quote attribution should start with a dash (-, –, —, etc.) or '~'.
+  6. Missing exactly one blank line before the quote.
+
+- Johnson-Chinn, Konitra L.
+  Checked 14 items, found 7 issues:
+  1. Public acknowledgment should include '-' or '~' before initials/date.
+  2. Missing display-name line in the form First M. "Nickname" Last ~ Adjective Animal (with optional initial/nickname).
+  3. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  4. Quote should be centered.
+  5. Quote is missing attribution.
+  6. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them. Also use View -> Show non-printing characters.
+
+- Kattika, Ashrith N
+  Checked 14 items, found 7 issues:
+  1. Display-name line should be centered.
+  2. Missing centered italic caption beneath the photo.
+  3. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  4. Quote should be centered.
+  5. Quote attribution should start with a dash (-, –, —, etc.) or '~'.
+  6. Missing exactly one blank line before the quote.
+
+- Korotkova, Anastasiya E
+  Checked 14 items, found 4 issues:
+  1. Display-name line should be centered.
+  2. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  3. Missing favorite quote block.
+
+- Laya, Tristan R
+  Checked 14 items, found 7 issues:
+  1. Display-name line should be centered.
+  2. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  3. Quote should be centered.
+  4. Quote attribution should be centered.
+  5. Quote attribution should start with a dash (-, –, —, etc.) or '~'.
+  6. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them. Also use View -> Show non-printing characters.
+
+- Liz, Braynel M
+  Checked 14 items, found 7 issues:
+  1. Display-name line should be centered.
+  2. Missing centered photo.
+  3. Missing centered italic caption beneath the photo.
+  4. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  5. Missing favorite quote block.
+  6. Missing horizontal rule separator after entry.
+
+- Lombard, Stephen G
+  Checked 14 items, found 11 issues:
+  1. Entry should start below a horizontal rule.
+  2. Display-name line should be centered.
+  3. Missing centered photo.
+  4. Missing centered italic caption beneath the photo.
+  5. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  6. Quote should be centered.
+  7. Quote attribution should be centered.
+  8. Quote attribution should start with a dash (-, –, —, etc.) or '~'.
+  9. Missing exactly one blank line before the quote.
+  10. Missing horizontal rule separator after entry.
+
+- Mendez, Jaden E
+  Checked 14 items, found 9 issues:
+  1. Entry should start below a horizontal rule.
+  2. Missing public acknowledgment sentence with initials and date.
+  3. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  4. Quote should be centered.
+  5. Quote attribution should be centered.
+  6. Quote attribution should start with a dash (-, –, —, etc.) or '~'.
+  7. Favorite quote should place attribution on a separate line.
+  8. Missing exactly one blank line before the quote.
+
+- Lopez Mendez, Kenya C.
+  Checked 14 items, found 8 issues:
+  1. Entry is not alphabetized by last name.
+  2. Entry should start with a blank line below a horizontal rule.
+  3. Public acknowledgment should include '-' or '~' before initials/date.
+  4. Missing centered photo.
+  5. Missing centered italic caption beneath the photo.
+  6. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  7. Missing favorite quote block.
+
+- Medrano, Giovanni A.
+  Checked 14 items, found 7 issues:
+  1. Entry should start with a blank line below a horizontal rule.
+  2. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  3. Quote should be centered.
+  4. Quote attribution should start with a dash (-, –, —, etc.) or '~'.
+  5. Missing exactly one blank line before the quote.
+  6. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them. Also use View -> Show non-printing characters.
+
+- Moreno Garcia, Arely
+  Checked 14 items, found 5 issues:
+  1. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  2. Quote should be centered.
+  3. Quote is missing attribution.
+  4. Missing horizontal rule separator after entry.
+
+- Nicola Courtney, J
+  Checked 14 items, found 8 issues:
+  1. Entry should start below a horizontal rule.
+  2. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan., Courses I'm Taking, & Why.
+  3. Quote attribution should be centered.
+  4. Do not include the word 'Quote' as a label after the bullets.
+  5. Quote attribution should start with a dash (-, –, —, etc.) or '~'.
+  6. Favorite quote should place attribution on a separate line.
+
+- Nguyen, Angel L
+  Checked 14 items, found 6 issues:
+  1. Entry is not alphabetized by last name.
+  2. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  3. Quote should be centered.
+  4. Quote is missing attribution.
+  5. Missing horizontal rule separator after entry.
+
+- Perry, Brittany
+  Checked 14 items, found 8 issues:
+  1. Entry should start below a horizontal rule.
+  2. Missing centered italic caption beneath the photo.
+  3. Missing personal statement with at least 3 complete sentences.
+  4. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  5. Missing favorite quote block.
+  6. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them. Also use View -> Show non-printing characters.
+  7. Missing horizontal rule separator after entry.
+
+- Popandopulo, Giorgi
+  Checked 14 items, found 11 issues:
+  1. Nothing should be a heading except for the first one (Last, First).
+  2. Entry should start below a horizontal rule.
+  3. Missing personal statement with at least 3 complete sentences.
+  4. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  5. Quote should be centered.
+  6. Quote attribution should be centered.
+  7. Do not include the word 'Quote' as a label after the bullets.
+  8. Quote attribution should start with a dash (-, –, —, etc.) or '~'.
+  9. Missing exactly one blank line before the quote.
+  10. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them. Also use View -> Show non-printing characters.
+
+- Quinones, Andrea C.
+  Checked 14 items, found 8 issues:
+  1. Entry should start with a blank line below a horizontal rule.
+  2. Missing public acknowledgment sentence with initials and date.
+  3. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  4. Quote attribution should be centered.
+  5. Quote attribution should start with a dash (-, –, —, etc.) or '~'.
+  6. Favorite quote should place attribution on a separate line.
+  7. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them. Also use View -> Show non-printing characters.
+
+- Ragan, Megumi A
+  Checked 14 items, found 6 issues:
+  1. Public acknowledgment should include '-' or '~' before initials/date.
+  2. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  3. Quote should be centered.
+  4. Quote attribution should start with a dash (-, –, —, etc.) or '~'.
+  5. Missing exactly one blank line before the quote.
+
+- Ramirez, Jehlisa A.
+  Checked 14 items, found 10 issues:
+  1. Missing public acknowledgment sentence with initials and date.
+  2. Missing display-name line in the form First M. "Nickname" Last ~ Adjective Animal (with optional initial/nickname).
+  3. Missing personal statement with at least 3 complete sentences.
+  4. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  5. Courses I'm Taking, & Why must include nested bullet items.
+  6. Quote should be centered.
+  7. Quote attribution should be centered.
+  8. Quote attribution should start with a dash (-, –, —, etc.) or '~'.
+  9. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them. Also use View -> Show non-printing characters.
+
+- Riley, Deborah A.
+  Checked 14 items, found 11 issues:
+  1. Heading 2 name line should be left-aligned.
+  2. Label before colon must be bold: Personal Background.
+  3. Label before colon must be bold: Professional Background.
+  4. Label before colon must be bold: Academic Background.
+  5. Label before colon must be bold: Primary Work Computer.
+  6. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  7. Label before colon must be bold: Courses I'm Taking, & Why.
+  8. Quote should be centered.
+  9. Quote attribution should start with a dash (-, –, —, etc.) or '~'.
+  10. Missing horizontal rule separator after entry.
+
+- Smith, Aaliyah M.
+  Checked 14 items, found 15 issues:
+  1. Entry should start below a horizontal rule.
+  2. Public acknowledgment should include '-' or '~' before initials/date.
+  3. Label before colon must be bold: Personal Background.
+  4. Label before colon must be bold: Professional Background.
+  5. Label before colon must be bold: Academic Background.
+  6. Label before colon must be bold: Primary Work Computer.
+  7. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  8. Label before colon must be bold: Courses I'm Taking, & Why.
+  9. Courses I'm Taking, & Why must include nested bullet items.
+  10. Quote should be centered.
+  11. Quote attribution should be centered.
+  12. Quote attribution should start with a dash (-, –, —, etc.) or '~'.
+  13. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them. Also use View -> Show non-printing characters.
+  14. Missing horizontal rule separator after entry.
+
+- Sall, Fatou
+  Checked 14 items, found 12 issues:
+  1. Entry is not alphabetized by last name.
+  2. Entry should start below a horizontal rule.
+  3. Public acknowledgment should include '-' or '~' before initials/date.
+  4. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  5. Quote should be centered.
+  6. Quote attribution should be centered.
+  7. Do not include the word 'Quote' as a label after the bullets.
+  8. Quote attribution should start with a dash (-, –, —, etc.) or '~'.
+  9. Missing exactly one blank line before the quote.
+  10. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them. Also use View -> Show non-printing characters.
+  11. Missing horizontal rule separator after entry.
+
+- Sandoval, Isaiah Z
+  Checked 14 items, found 18 issues:
+  1. Entry should start below a horizontal rule.
+  2. Public acknowledgment is present, but initials are missing.
+  3. Public acknowledgment is present, but date is missing.
+  4. Display-name line should be centered.
+  5. Photo should be centered.
+  6. Photo caption should be centered.
+  7. Missing required bulleted item: Personal Background., Professional Background., Academic Background., Primary Work Computer., Operating System & Version., Backup Work Computer & Location Plan., Courses I'm Taking, & Why.
+  8. Quote should be centered.
+  9. Do not include the word 'Quote' as a label after the bullets.
+  10. Quote is missing attribution.
+  11. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them. Also use View -> Show non-printing characters.
+  12. Missing horizontal rule separator after entry.
+
+- Thomas, Nicholas L
+  Checked 14 items, found 8 issues:
+  1. Entry should start below a horizontal rule.
+  2. Public acknowledgment is present, but initials are missing.
+  3. Public acknowledgment is present, but date is missing.
+  4. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  5. Quote should be centered.
+  6. Quote is missing attribution.
+  7. Missing horizontal rule separator after entry.
+
+- Timmons, Channin N
+  Checked 14 items, found 10 issues:
+  1. Entry should start below a horizontal rule.
+  2. Public acknowledgment is present, but initials are missing.
+  3. Public acknowledgment is present, but date is missing.
+  4. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  5. Quote should be centered.
+  6. Quote attribution should start with a dash (-, –, —, etc.) or '~'.
+  7. Missing exactly one blank line before the quote.
+  8. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them. Also use View -> Show non-printing characters.
+  9. Missing horizontal rule separator after entry.
+
+- Turner-Dobson, Umoja A.
+  Checked 14 items, found 12 issues:
+  1. Entry should start below a horizontal rule.
+  2. Missing display-name line in the form First M. "Nickname" Last ~ Adjective Animal (with optional initial/nickname).
+  3. Missing required bulleted item: Personal Background., Professional Background., Academic Background., Primary Work Computer., Operating System & Version., Backup Work Computer & Location Plan., Courses I'm Taking, & Why.
+  4. Quote should be centered.
+  5. Quote is missing attribution.
+  6. Missing horizontal rule separator after entry.
+
+- Sharpey, Joyce L
+  Checked 14 items, found 13 issues:
+  1. Entry is not alphabetized by last name.
+  2. Entry should start below a horizontal rule.
+  3. Public acknowledgment should include '-' or '~' before initials/date.
+  4. Missing centered italic caption beneath the photo.
+  5. Missing personal statement with at least 3 complete sentences.
+  6. Missing required bulleted item: Personal Background., Professional Background., Academic Background., Primary Work Computer., Operating System & Version., Backup Work Computer & Location Plan., Courses I'm Taking, & Why.
+  7. Missing favorite quote block.
+
+- von Briesen, D.I.
+  Checked 14 items, found 7 issues:
+  1. Heading 2 name is not in the expected format: Last Name, First Name Middle Initial.
+  2. Public acknowledgment is present, but initials are missing.
+  3. Missing personal statement with at least 3 complete sentences.
+  4. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  5. Quote should be centered.
+  6. Quote is missing attribution.
+
+- Kweekeh, Malachi T.
+  Checked 14 items, found 9 issues:
+  1. Entry is not alphabetized by last name.
+  2. Photo should be centered.
+  3. Missing centered italic caption beneath the photo.
+  4. Missing personal statement with at least 3 complete sentences.
+  5. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan., Courses I'm Taking, & Why.
+  6. Missing favorite quote block.
+  7. Missing horizontal rule separator after entry.
+
+- Remy, Romanita
+  Checked 14 items, found 11 issues:
+  1. Entry should start below a horizontal rule.
+  2. Missing display-name line in the form First M. "Nickname" Last ~ Adjective Animal (with optional initial/nickname).
+  3. Photo should be centered.
+  4. Missing centered italic caption beneath the photo.
+  5. Missing personal statement with at least 3 complete sentences.
+  6. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan., Courses I'm Taking, & Why.
+  7. Quote should be centered.
+  8. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them. Also use View -> Show non-printing characters.
+  9. Missing horizontal rule separator after entry.
+
+- Sadacca, Evie A.
+  Checked 14 items, found 7 issues:
+  1. Entry should start below a horizontal rule.
+  2. Missing centered italic caption beneath the photo.
+  3. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan., Courses I'm Taking, & Why.
+  4. Quote should be centered.
+  5. Missing horizontal rule separator after entry.
+
+- Mclaughlin, Brendan
+  Checked 14 items, found 8 issues:
+  1. Entry is not alphabetized by last name.
+  2. Entry should start below a horizontal rule.
+  3. Missing centered photo.
+  4. Missing centered italic caption beneath the photo.
+  5. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan., Courses I'm Taking, & Why.
+  6. Missing horizontal rule separator after entry.
+
+- Welch, Macaela F.
+  Checked 14 items, found 11 issues:
+  1. Entry should start below a horizontal rule.
+  2. Display-name line should be centered.
+  3. Missing centered italic caption beneath the photo.
+  4. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  5. Quote should be centered.
+  6. Quote attribution should be centered.
+  7. Quote attribution should start with a dash (-, –, —, etc.) or '~'.
+  8. Missing exactly one blank line before the quote.
+  9. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them. Also use View -> Show non-printing characters.
+  10. Missing horizontal rule separator after entry.
+
+- Wilson, Arif J.
+  Checked 14 items, found 8 issues:
+  1. Entry should start below a horizontal rule.
+  2. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  3. Quote should be centered.
+  4. Do not include the word 'Quote' as a label after the bullets.
+  5. Quote attribution should start with a dash (-, –, —, etc.) or '~'.
+  6. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them. Also use View -> Show non-printing characters.
+  7. Missing horizontal rule separator after entry.
+
+- Witherspoon, Tyshima
+  Checked 14 items, found 10 issues:
+  1. Entry should start below a horizontal rule.
+  2. Missing centered italic caption beneath the photo.
+  3. Missing required bulleted item: Primary Work Computer., Operating System & Version., Backup Work Computer & Location Plan.
+  4. Courses I'm Taking, & Why must include nested bullet items.
+  5. Quote should be centered.
+  6. Quote is missing attribution.
+  7. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them. Also use View -> Show non-printing characters.
+  8. Missing horizontal rule separator after entry.
+
+- Yingst, Will A.
+  Checked 14 items, found 8 issues:
+  1. Entry should start below a horizontal rule.
+  2. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan., Courses I'm Taking, & Why.
+  3. Quote is missing attribution.
+  4. Missing exactly one blank line before the quote.
+  5. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them. Also use View -> Show non-printing characters.
+  6. Missing horizontal rule separator after entry.
+
+- Holloway, Quentin L.
+  Checked 14 items, found 12 issues:
+  1. Entry is not alphabetized by last name.
+  2. Entry should start below a horizontal rule.
+  3. Public acknowledgment is present, but initials are missing.
+  4. Public acknowledgment should be left-aligned normal text.
+  5. Label before colon must be bold: Personal Background.
+  6. Missing required bulleted item: Primary Work Computer., Operating System & Version., Backup Work Computer & Location Plan.
+  7. Quote is missing attribution.
+  8. Missing exactly one blank line before the quote.
+  9. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them. Also use View -> Show non-printing characters.
+  10. Missing horizontal rule separator after entry.
+
+- Naquan Fedd
+  Checked 14 items, found 14 issues:
+  1. Entry is not alphabetized by last name.
+  2. Heading 2 name is not in the expected format: Last Name, First Name Middle Initial.
+  3. Entry should start below a horizontal rule.
+  4. Public acknowledgment is present, but initials are missing.
+  5. Display-name line should be centered.
+  6. Photo should be centered.
+  7. Photo caption should be centered.
+  8. Missing required bulleted item: Primary Work Computer., Operating System & Version., Backup Work Computer & Location Plan.
+  9. Courses I'm Taking, & Why must include nested bullet items.
+  10. Quote should be centered.
+  11. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them. Also use View -> Show non-printing characters.
+  12. Missing horizontal rule separator after entry.
+
+- Fontes, Nadia L.
+  Checked 14 items, found 8 issues:
+  1. Nothing should be a heading except for the first one (Last, First).
+  2. Entry should start below a horizontal rule.
+  3. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  4. Quote should be centered.
+  5. Quote attribution should be centered.
+  6. Quote attribution should start with a dash (-, –, —, etc.) or '~'.
+  7. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them. Also use View -> Show non-printing characters.
+
+- Ismael Mugisha.
+  Checked 14 items, found 12 issues:
+  1. Heading 2 name is not in the expected format: Last Name, First Name Middle Initial.
+  2. Public acknowledgment is present, but initials are missing.
+  3. Missing display-name line in the form First M. "Nickname" Last ~ Adjective Animal (with optional initial/nickname).
+  4. Photo should be centered.
+  5. Photo caption should be centered.
+  6. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  7. Quote should be centered.
+  8. Quote is missing attribution.
+  9. Missing exactly one blank line before the quote.
+  10. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them. Also use View -> Show non-printing characters.
+  11. Missing horizontal rule separator after entry.
+
+- Holmberg, Johanna
+  Checked 14 items, found 11 issues:
+  1. Entry is not alphabetized by last name.
+  2. Entry should start below a horizontal rule.
+  3. Display-name line should be centered.
+  4. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan.
+  5. Quote should be centered.
+  6. Quote attribution should be centered.
+  7. Quote attribution should start with a dash (-, –, —, etc.) or '~'.
+  8. Missing exactly one blank line before the quote.
+  9. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them. Also use View -> Show non-printing characters.
+  10. Missing horizontal rule separator after entry.
+
+- Tyler, Brady
+  Checked 14 items, found 9 issues:
+  1. Entry should start below a horizontal rule.
+  2. Missing required bulleted item: Primary Work Computer., Operating System & Version., Backup Work Computer & Location Plan., Courses I'm Taking, & Why.
+  3. Quote should be centered.
+  4. Quote is missing attribution.
+  5. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them. Also use View -> Show non-printing characters.
+  6. Missing horizontal rule separator after entry.
+
+- Leveille, Kamryn
+  Checked 14 items, found 9 issues:
+  1. Entry is not alphabetized by last name.
+  2. Entry should start below a horizontal rule.
+  3. Missing required bulleted item: Operating System & Version., Backup Work Computer & Location Plan., Courses I'm Taking, & Why.
+  4. Quote attribution should be centered.
+  5. Quote attribution should start with a dash (-, –, —, etc.) or '~'.
+  6. Contains multiple consecutive spaces in visible text. Tip: This may include tabs- remove them. Also use View -> Show non-printing characters.
+  7. Missing horizontal rule separator after entry.
